@@ -1,5 +1,7 @@
 def looping
-	puts "Wingardium Leviosa" #infinite loop.
+  loop do
+    puts "Wingardium Leviosa" #infinite loop.
+  end
 end
 
 #call your method here
